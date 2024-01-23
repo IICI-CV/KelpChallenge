@@ -1,0 +1,5 @@
+/exp
+/datasets/datasets
+**__pycache__**
+/.cache
+/wandb

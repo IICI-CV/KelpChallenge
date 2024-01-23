@@ -1,0 +1,11 @@
+# arguments for dataset
+dataset: kelp
+nclass: 1
+crop_size: 320
+data_root: /home/zb/WCS/codes/Kelp/datasets/datasets
+
+# arguments for training
+epochs: 1000
+batch_size: 16  # per GPU x 1 GPU
+lr: 0.001
+accum_iter: 1
